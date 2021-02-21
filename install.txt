@@ -1,0 +1,8 @@
+1) npm install -g create-react-app
+2) 관리자 모드로 terminal 열기
+3)  Set-ExecutionPolicy RemoteSigned
+4) Get-ExecutionPolicy
+5) create-react-app management
+6) npm install -g yarn
+7) cd .\management\
+8) yarn start
